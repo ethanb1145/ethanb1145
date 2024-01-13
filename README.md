@@ -40,12 +40,16 @@ I grew up playing sports such as football and basketball so since then I've been
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/project-management/)
 
+### Collaboration/Communication
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)](your_empty_slack_link)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](your_empty_zoom_link)
+
 ### Testing/Tools
 [![RSpec](https://img.shields.io/badge/RSpec-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/)
 [![RSpec Rails](https://img.shields.io/badge/RSpec_Rails-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/)
 [![Pry](https://img.shields.io/badge/Pry-4B0082?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/pry/pry)
 [![Capybara](https://img.shields.io/badge/Capybara-301934?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/teamcapybara/capybara)
-[![FactoryBot](https://img.shields.io/badge/FactoryBot-00CC00?style=for-the-badge)](https://github.com/thoughtbot/factory_bot)
+[![FactoryBot Rails](https://img.shields.io/badge/FactoryBot_Rails-00CC00?style=for-the-badge)](https://github.com/thoughtbot/factory_bot)
 [![Faker](https://img.shields.io/badge/Faker-6F42C1?style=for-the-badge)](https://github.com/faker-ruby/faker)
 [![Shoulda Matchers](https://img.shields.io/badge/Shoulda_Matchers-45CB85?style=for-the-badge)](https://matchers.shoulda.io/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
@@ -72,7 +76,10 @@ I grew up playing sports such as football and basketball so since then I've been
 
 
 ### Familiar
+[![Action Cable](https://img.shields.io/badge/Action_Cable-CC0000?style=for-the-badge)](https://guides.rubyonrails.org/action_cable_overview.html)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ## 🦾 Currently Working On:
 - [Experience Exchange](https://github.com/experience-exchange-2307) 🤝, an application that allows users to connect with other local users and share hobbies and skills🎻
