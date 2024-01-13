@@ -29,12 +29,20 @@ I grew up playing sports such as football and basketball so since then I've been
 [![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![ActiveRecord](https://img.shields.io/badge/ActiveRecord-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://guides.rubyonrails.org/active_record_basics.html)
 
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 ### Workflow
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
+### Project Management
+[![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/project-management/)
+
 ### Testing/Tools
 [![RSpec](https://img.shields.io/badge/RSpec-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/)
+[![TDD](https://img.shields.io/badge/TDD-009688?style=for-the-badge)](https://en.wikipedia.org/wiki/Test-driven_development)
 [![Pry](https://img.shields.io/badge/Pry-4B0082?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/pry/pry)
 [![FactoryBot](https://img.shields.io/badge/FactoryBot-00CC00?style=for-the-badge)](https://github.com/thoughtbot/factory_bot)
 [![Faker](https://img.shields.io/badge/Faker-6F42C1?style=for-the-badge)](https://github.com/faker-ruby/faker)
@@ -48,14 +56,23 @@ I grew up playing sports such as football and basketball so since then I've been
 ### Cloud Platforms
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 
+### Architectural Patterns
+[![MVC](https://img.shields.io/badge/MVC-673AB7?style=for-the-badge)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)](https://restfulapi.net/)
+[![Service-Oriented Architecture (SOA)](https://img.shields.io/badge/SOA-CC0000?style=for-the-badge)](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+[![Microservices](https://img.shields.io/badge/Microservices-004080?style=for-the-badge)](https://microservices.io/)
+
 ### Methodologies:
 [![OOP](https://img.shields.io/badge/OOP-F39C12?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 [![Agile Methodology](https://img.shields.io/badge/Agile-009688?style=for-the-badge)](https://en.wikipedia.org/wiki/Agile_software_development)
 
-## 🦾 Currently working on:
+## 🦾 Currently Working On:
 - [Experience Exchange](https://github.com/experience-exchange-2307) 🤝, an application that allows users to connect with other local users and share hobbies and skills🎻
 - CodeCore 📖, a passion project that quizzes the user on software development fundamentals, terms, and more 👩‍🏫 👨‍🎓
   
-## 🧠 Currently learning:
-- Docker; a platform that enables developers to package, distribute, and run applications in isolated containers, providing portability across different environments
+## 🧠 Currently Learning
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+- a platform that enables developers to package, distribute, and run applications in isolated containers, providing portability across different environments
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 - Amazon Web Services(AWS); a cloud platform for flexible and scalable computing services
