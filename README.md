@@ -19,7 +19,7 @@ During my senior year of high school, the school opened up a Computer Science el
 
 I grew up playing sports such as football and basketball so since then I've been pretty into sports; my teams are the Denver Nuggets and the Denver Broncos (when they win...) and I also really enjoy watching UFC, an MMA fighting organization. In my free time I like to play video games such as Overwatch 2 and The Finals but I've truly have been waiting for Cities Skylines 2 to drop (I'm in love with tycoon games 🌆). Another hobby I have is developing my passion project called CodeCore; during high school what really helped me learn and study were interactive apps like Kahoot and GimKit, and I really love the idea to create a quiz app like these that helps me study in the way of developing it with new technologies I'm learning and also using the app myself to study! 
 
-## 🖥️ Tech Stack 
+## 🖥️ Tech Stack and Skills
 
 ### Languages/Frameworks
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
@@ -91,3 +91,6 @@ I grew up playing sports such as football and basketball so since then I've been
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 - Amazon Web Services(AWS); a cloud platform for flexible and scalable computing services
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+- an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications
