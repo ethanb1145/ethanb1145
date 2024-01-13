@@ -42,12 +42,14 @@ I grew up playing sports such as football and basketball so since then I've been
 
 ### Testing/Tools
 [![RSpec](https://img.shields.io/badge/RSpec-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/)
-[![TDD](https://img.shields.io/badge/TDD-009688?style=for-the-badge)](https://en.wikipedia.org/wiki/Test-driven_development)
+[![RSpec Rails](https://img.shields.io/badge/RSpec_Rails-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/)
 [![Pry](https://img.shields.io/badge/Pry-4B0082?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/pry/pry)
+[![Capybara](https://img.shields.io/badge/Capybara-301934?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/teamcapybara/capybara)
 [![FactoryBot](https://img.shields.io/badge/FactoryBot-00CC00?style=for-the-badge)](https://github.com/thoughtbot/factory_bot)
 [![Faker](https://img.shields.io/badge/Faker-6F42C1?style=for-the-badge)](https://github.com/faker-ruby/faker)
-[![Capybara](https://img.shields.io/badge/Capybara-301934?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/teamcapybara/capybara)
+[![Shoulda Matchers](https://img.shields.io/badge/Shoulda_Matchers-45CB85?style=for-the-badge)](https://matchers.shoulda.io/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Bcrypt](https://img.shields.io/badge/Bcrypt-004880?style=for-the-badge)](https://en.wikipedia.org/wiki/Bcrypt)
 [![SimpleCov](https://img.shields.io/badge/SimpleCov-87294A?style=for-the-badge)](https://github.com/simplecov-ruby/simplecov)
 [![Faraday](https://img.shields.io/badge/Faraday-00BFFF?style=for-the-badge)](https://github.com/lostisland/faraday)
 [![Webmock](https://img.shields.io/badge/Webmock-6A737B?style=for-the-badge)](https://github.com/bblimke/webmock)
@@ -58,13 +60,19 @@ I grew up playing sports such as football and basketball so since then I've been
 
 ### Architectural Patterns
 [![MVC](https://img.shields.io/badge/MVC-673AB7?style=for-the-badge)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+[![RESTful Design](https://img.shields.io/badge/RESTful_Design-009688?style=for-the-badge)](https://restfulapi.net/)
 [![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)](https://restfulapi.net/)
 [![Service-Oriented Architecture (SOA)](https://img.shields.io/badge/SOA-CC0000?style=for-the-badge)](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 [![Microservices](https://img.shields.io/badge/Microservices-004080?style=for-the-badge)](https://microservices.io/)
 
-### Methodologies:
-[![OOP](https://img.shields.io/badge/OOP-F39C12?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+### Methodologies and Practices:
 [![Agile Methodology](https://img.shields.io/badge/Agile-009688?style=for-the-badge)](https://en.wikipedia.org/wiki/Agile_software_development)
+[![OOP](https://img.shields.io/badge/OOP-F39C12?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+[![TDD](https://img.shields.io/badge/TDD-009688?style=for-the-badge)](https://en.wikipedia.org/wiki/Test-driven_development)
+
+
+### Familiar
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
 
 ## 🦾 Currently Working On:
 - [Experience Exchange](https://github.com/experience-exchange-2307) 🤝, an application that allows users to connect with other local users and share hobbies and skills🎻
