@@ -33,6 +33,9 @@ I grew up playing sports such as football and basketball so since then I've been
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 - an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications
 
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+- language known for its excellent performace, scalability, and simplicity
+
 ## 🖥️ Tech Stack and Skills
 
 ### Languages/Frameworks
