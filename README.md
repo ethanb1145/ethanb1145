@@ -91,9 +91,9 @@ I grew up playing sports such as football and basketball so since then I've been
 [![OOP](https://img.shields.io/badge/OOP-F39C12?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 [![TDD](https://img.shields.io/badge/TDD-009688?style=for-the-badge)](https://en.wikipedia.org/wiki/Test-driven_development)
 
-
 ### Familiar
 [![Action Cable](https://img.shields.io/badge/Action_Cable-CC0000?style=for-the-badge)](https://guides.rubyonrails.org/action_cable_overview.html)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Google OAuth](https://img.shields.io/badge/Google_OAuth-2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
