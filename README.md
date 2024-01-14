@@ -42,6 +42,11 @@ I grew up playing sports such as football and basketball so since then I've been
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 
+### Markup and Styling Languages
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
 ### Query Languages
 [![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![ActiveRecord](https://img.shields.io/badge/ActiveRecord-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://guides.rubyonrails.org/active_record_basics.html)
