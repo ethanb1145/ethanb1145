@@ -24,17 +24,13 @@ I grew up playing sports such as football and basketball so since then I've been
 - CodeCore 📖, a passion project that quizzes the user on software development fundamentals, terms, and more 👩‍🏫 👨‍🎓
   
 ## 🧠 Currently Learning
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-- a platform that enables developers to package, distribute, and run applications in isolated containers, providing portability across different environments
+| | Description |
+|-------|-------------|
+| [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) | A platform that enables developers to package, distribute, and run applications in isolated containers, providing portability across different environments. |
+| [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) | Amazon Web Services (AWS); a cloud platform for flexible and scalable computing services. |
+| [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) | An open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. |
+| [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) | A programming language known for its excellent performance, scalability, and simplicity. |
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-- Amazon Web Services(AWS); a cloud platform for flexible and scalable computing services
-
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-- an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-- language known for its excellent performace, scalability, and simplicity
 
 ## 🖥️ Tech Stack and Skills
 
