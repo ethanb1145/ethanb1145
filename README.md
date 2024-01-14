@@ -38,25 +38,11 @@ I grew up playing sports such as football and basketball so since then I've been
 
 ## 🖥️ Tech Stack and Skills
 
-### Languages/Frameworks
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+| Languages/Frameworks | Markup and Styling Languages | Query Languages | Databases | Workflow|
+|----------------------|------------------------------|-----------------|-----------|---------|
+| [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/) | [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) | [![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)|
+| [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/) | [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![ActiveRecord](https://img.shields.io/badge/ActiveRecord-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://guides.rubyonrails.org/active_record_basics.html) | |  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) | |
 
-### Markup and Styling Languages
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-
-### Query Languages
-[![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
-[![ActiveRecord](https://img.shields.io/badge/ActiveRecord-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://guides.rubyonrails.org/active_record_basics.html)
-
-### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### Workflow
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ### Project Management
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
@@ -66,20 +52,12 @@ I grew up playing sports such as football and basketball so since then I've been
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)](your_empty_slack_link)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](your_empty_zoom_link)
 
-### Testing/Tools
-[![RSpec](https://img.shields.io/badge/RSpec-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/)
-[![RSpec Rails](https://img.shields.io/badge/RSpec_Rails-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/)
-[![Pry](https://img.shields.io/badge/Pry-4B0082?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/pry/pry)
-[![Capybara](https://img.shields.io/badge/Capybara-301934?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/teamcapybara/capybara)
-[![FactoryBot Rails](https://img.shields.io/badge/FactoryBot_Rails-00CC00?style=for-the-badge)](https://github.com/thoughtbot/factory_bot)
-[![Faker](https://img.shields.io/badge/Faker-6F42C1?style=for-the-badge)](https://github.com/faker-ruby/faker)
-[![Shoulda Matchers](https://img.shields.io/badge/Shoulda_Matchers-45CB85?style=for-the-badge)](https://matchers.shoulda.io/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Bcrypt](https://img.shields.io/badge/Bcrypt-004880?style=for-the-badge)](https://en.wikipedia.org/wiki/Bcrypt)
-[![SimpleCov](https://img.shields.io/badge/SimpleCov-87294A?style=for-the-badge)](https://github.com/simplecov-ruby/simplecov)
-[![Faraday](https://img.shields.io/badge/Faraday-00BFFF?style=for-the-badge)](https://github.com/lostisland/faraday)
-[![Webmock](https://img.shields.io/badge/Webmock-6A737B?style=for-the-badge)](https://github.com/bblimke/webmock)
-[![VCR](https://img.shields.io/badge/VCR-2F3547?style=for-the-badge)](https://github.com/vcr/vcr)
+| Testing | API Tools | Security Tools |
+|---------|-----------|----------------|
+| [![RSpec](https://img.shields.io/badge/RSpec-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/) [![RSpec Rails](https://img.shields.io/badge/RSpec_Rails-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/) | [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![Faraday](https://img.shields.io/badge/Faraday-00BFFF?style=for-the-badge)](https://github.com/lostisland/faraday) [![Webmock](https://img.shields.io/badge/Webmock-6A737B?style=for-the-badge)](https://github.com/bblimke/webmock) [![VCR](https://img.shields.io/badge/VCR-2F3547?style=for-the-badge)](https://github.com/vcr/vcr) | [![Bcrypt](https://img.shields.io/badge/Bcrypt-004880?style=for-the-badge)](https://en.wikipedia.org/wiki/Bcrypt) |
+| [![Pry](https://img.shields.io/badge/Pry-4B0082?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/pry/pry) [![Capybara](https://img.shields.io/badge/Capybara-301934?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/teamcapybara/capybara) | [![FactoryBot Rails](https://img.shields.io/badge/FactoryBot_Rails-00CC00?style=for-the-badge)](https://github.com/thoughtbot/factory_bot) [![Faker](https://img.shields.io/badge/Faker-6F42C1?style=for-the-badge)](https://github.com/faker-ruby/faker) [![Shoulda Matchers](https://img.shields.io/badge/Shoulda_Matchers-45CB85?style=for-the-badge)](https://matchers.shoulda.io/) [![SimpleCov](https://img.shields.io/badge/SimpleCov-87294A?style=for-the-badge)](https://github.com/simplecov-ruby/simplecov) |
+
+
 
 ### Cloud Platforms
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
