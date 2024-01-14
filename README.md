@@ -47,15 +47,11 @@ I grew up playing sports such as football and basketball so since then I've been
 |---------------------------|------------|-------------------|
 | [![RSpec](https://img.shields.io/badge/RSpec-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/) [![RSpec Rails](https://img.shields.io/badge/RSpec_Rails-933D4A?style=for-the-badge&logo=ruby&logoColor=white)](https://rspec.info/) | [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![Faraday](https://img.shields.io/badge/Faraday-00BFFF?style=for-the-badge)](https://github.com/lostisland/faraday) [![Webmock](https://img.shields.io/badge/Webmock-6A737B?style=for-the-badge)](https://github.com/bblimke/webmock) [![VCR](https://img.shields.io/badge/VCR-2F3547?style=for-the-badge)](https://github.com/vcr/vcr) | [![Pry](https://img.shields.io/badge/Pry-4B0082?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/pry/pry) [![Capybara](https://img.shields.io/badge/Capybara-301934?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/teamcapybara/capybara) [![FactoryBot Rails](https://img.shields.io/badge/FactoryBot_Rails-00CC00?style=for-the-badge)](https://github.com/thoughtbot/factory_bot) [![Faker](https://img.shields.io/badge/Faker-6F42C1?style=for-the-badge)](https://github.com/faker-ruby/faker) [![Shoulda Matchers](https://img.shields.io/badge/Shoulda_Matchers-45CB85?style=for-the-badge)](https://matchers.shoulda.io/) [![SimpleCov](https://img.shields.io/badge/SimpleCov-87294A?style=for-the-badge)](https://github.com/simplecov-ruby/simplecov) |
 
+| Project Management | Collaboration/Communication |
+|--------------------|-----------------------------|
+| [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/) | [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)](your_empty_slack_link) |
+| [![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/project-management/) | [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](your_empty_zoom_link) |
 
-
-### Project Management
-[![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
-[![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/project-management/)
-
-### Collaboration/Communication
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)](your_empty_slack_link)
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](your_empty_zoom_link)
 
 ### Cloud Platforms
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
