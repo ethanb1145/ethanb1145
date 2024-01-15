@@ -19,7 +19,7 @@ During my senior year of high school, the school opened up a <strong>Computer Sc
 
 I grew up playing sports such as football and basketball so since then I've been pretty into sports; my teams are the Denver Nuggets and the Denver Broncos (when they win...) and I also really enjoy watching UFC, an MMA fighting organization. In my free time I like to play video games such as Overwatch 2 and The Finals but I've truly have been waiting for Cities Skylines 2 to drop (I'm in love with <em>tycoon games</em> 🌆). Another hobby I have is developing my passion project called <em>CodeCore</em>; during high school what really helped me learn and study were interactive apps like Kahoot and GimKit, and I really love the idea to create a quiz app like these that helps me study in the way of developing it with new technologies I'm learning and also using the app myself to study!
 
-## 🦾 Currently Working On:
+## 🦾 Currently Working On
 - [Experience Exchange](https://github.com/experience-exchange-2307) 🤝, an application that allows users to connect with other local users and share hobbies and skills🎻
 - CodeCore 📖, a passion project that quizzes the user on software development fundamentals, terms, and more 👩‍🏫 👨‍🎓
   
