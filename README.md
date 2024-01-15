@@ -33,6 +33,7 @@ I grew up playing sports such as football and basketball so since then I've been
 
 
 ## 🖥️ Tech Stack and Skills
+([Here](https://gist.github.com/ethanb1145/4c0dd74fea616b5bc2a791f0b0a297a5) 👈 is my personal glossary for all of these and more👇)
 
 | Languages/Frameworks | Markup and Styling Languages | Query Languages | Databases | Workflow | Cloud Platforms |
 |----------------------|------------------------------|-----------------|-----------|----------|-----------------|
