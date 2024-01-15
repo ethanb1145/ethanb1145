@@ -13,7 +13,7 @@
 
 ### 🏃‍♂️ Journey
 
-During my senior year of high school, the school opened up a <strong>Computer Science</strong> elective class. I took this class for a full year and it only solidified my dream to work with computers, brought me into software development, and led me into <strong>Turing School of Software and Design</strong>, a <strong>1500-hour</strong> intensive software development program. This program was indeed intense; school hours from 9am - 4pm MT, weekly projects, assignments, and independent studying to order to keep up and understand the concepts being taught. This all could only be achieved by dedication, passion, adaptability, and many more skills in order to keep up with the program and its requirements to move forward. 
+During my senior year of high school, the school opened up a <strong>Computer Science</strong> elective class. I took this class for a full year and it only solidified my dream to work with computers, brought me into software development, and led me into <strong>Turing School of Software and Design</strong>, a <strong>1500-hour</strong> intensive software development program. The reward for completing this program was an Accredited Certificate in Backend Engineering and being one step closer to my goals. This program was indeed intense; school hours from 9am - 4pm MT, weekly projects, assignments, and independent studying to order to keep up and understand the concepts being taught. This all could only be achieved by dedication, passion, adaptability, and many more skills in order to keep up with the program and its requirements to move forward. 
 
 ### 🏈 Interests and Hobbies 🏀
 
@@ -33,7 +33,7 @@ I grew up playing sports such as football and basketball so since then I've been
 
 
 ## 🖥️ Tech Stack and Skills
-([Here](https://gist.github.com/ethanb1145/4c0dd74fea616b5bc2a791f0b0a297a5) 👈 is my personal glossary for all of these and more👇)
+([Here](https://gist.github.com/ethanb1145/4c0dd74fea616b5bc2a791f0b0a297a5) 👈 is my glossary for all of these and more👇)
 
 | Languages/Frameworks | Markup and Styling Languages | Query Languages | Databases | Workflow | Cloud Platforms |
 |----------------------|------------------------------|-----------------|-----------|----------|-----------------|
