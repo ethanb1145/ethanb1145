@@ -18,11 +18,7 @@ During my senior year of high school, the school opened up a <strong>Computer Sc
 #### 📚 Turing School of Software and Design
 
 Turing School of Software and Design is a federally accredited software development school and after reviewing my options for starting my career in tech, this one in particular stood out to me. Turing is sectioned out into four different sections, Mod 1 to Mod 4, each focusing on different areas of software development, and areas that were relevant to what the industry actually looks like and needs. This school not only offered the technical skills that the industry needed, but also industry practices that would be used in the workplace such as teams doing stand-up meetings, DTRs, and retros. So I enrolled in the Back End program and the reward for completing this program was an Accredited Certificate in Backend Engineering and being one step closer to my goals. This program was indeed intense to say the least; school hours from 9am - 4pm MT, weekly projects, assignments, and independent studying to order to keep up and understand the concepts being taught. This all could only be achieved by dedication, passion, adaptability, and many more skills in order to keep up with the program and its requirements to move forward. 
-
-## 🦾 Currently Working On
-- [Experience Exchange](https://github.com/experience-exchange-2307) 🤝, an application that allows users to connect with other local users and share hobbies and skills🎻
-- CodeCore 📖, a passion project that quizzes the user on software development fundamentals, terms, and more 👩‍🏫 👨‍🎓
-  
+ 
 ## 🧠 Currently Learning
 | | Description |
 |-------|-------------|
